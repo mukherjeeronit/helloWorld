@@ -1,0 +1,17 @@
+{
+    "name": "ronit/hello-world",
+    "description": "hello",
+    "authors": [
+        {
+            "name": "ronit-voicetree",
+            "email": "ronit.mukherjee@voicetree.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+      "psr-0":{
+        "HelloWorld" : "src/"
+      }
+    }
+}
